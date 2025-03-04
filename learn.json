@@ -1,6 +1,9 @@
 
 {
-	"title" : "Todolist with Vanilla JS (no framework)",
+	"title" :  {
+		"us": "Todolist with Vanilla JS (no framework)",
+		"es": "Todolist con Vanilla JS (sin framework)"
+	},
 	"slug" : "todolist-vanilla-js",
 	"status": "published",
 	"video-id": "eIRUpK3keWU",
@@ -8,7 +11,10 @@
 	"preview": "https://github.com/breatheco-de/exercise-todolist-vanilla-js/blob/master/preview.gif?raw=true",
 	"duration" : 16,  
 	"template_url": "https://github.com/4GeeksAcademy/vanillajs-hello",
-	"description" : "Create a simple todo web app using vanilla js",
+	"description" : {
+		"us": "Build a simple to-do web app using Vanilla JavaScript. Let users add and delete tasks, show a delete icon next to each task, and display a message when no tasks are available. Tasks can be added on input blur or with a button. Users can't update tasks — they must delete and recreate them. Keep it simple and clean!",
+		"es": "Crea una sencilla aplicación web de lista de tareas usando JavaScript puro. Permite a los usuarios agregar y eliminar tareas, muestra un ícono de eliminación junto a cada tarea y un mensaje cuando no hay tareas disponibles. Las tareas se pueden agregar al perder el foco del input o con un botón. No se pueden editar, solo eliminar y volver a crear. ¡Manténlo simple y claro!"
+	},
 	"technologies": ["javascript", "the dom","events","html","css","html/css"],
 	"difficulty": "easy",
 	"talents": [
@@ -28,5 +34,8 @@
 		{ "badge": "control-freak", "points": 5 }
 	],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+	"telemetry": {
+    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=172"
+  }
 }
