@@ -8,7 +8,7 @@
 
 Create a TODO list application that allows users to add and delete tasks.
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
   
 ## 🌱  How to start this project
 
@@ -24,7 +24,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
-</onlyfor>
+</how-to-start>
 
 ## 📝 Instructions
 
