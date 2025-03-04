@@ -8,7 +8,7 @@
 
 Crea una aplicación de lista de tareas (TODO list) que permita a los usuarios agregar y eliminar tareas.  
 
-<onlyfor saas="false" withBanner="false">  
+<how-to-start>  
 
 ## 🌱 Cómo iniciar este proyecto  
 
@@ -24,7 +24,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 
 💡 Importante: Recuerda crear un nuevo repositorio, actualizar el remoto (`git remote set-url origin <tu nueva url>`), y subir el código a tu nuevo repositorio utilizando `add`, `commit` y `push`.  
 
-</onlyfor>  
+</how-to-start>
 
 ## 📝 Instrucciones  
 
